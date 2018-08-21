@@ -1,1 +1,7 @@
+---
 lucky-word: "Rabbit's Foot"
+
+---
+spring:
+    profiles: "test"
+lucky-word: "Test Profile"
