@@ -1,9 +1,9 @@
----
-word-config:
-  preamble: Wow!
-  luckyWord: I just did it!
-
 #---
-#wordConfig:
-#  preamble: The lucky word is
-#  luckyWord: Irish
+#word-config:
+#  preamble: Wow!
+#  luckyWord: I just did it!
+
+---
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
